@@ -1,0 +1,200 @@
+[
+  {
+    "ContainingType": "HR.LeaveManagement.Api.Controllers.LeaveAllocationController",
+    "Method": "Create",
+    "RelativePath": "api/LeaveAllocation/Create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "leaveAllocation",
+        "Type": "HR.LeaveManagement.Application.Features.LeaveAllocation.Commands.CreateLeaveAllocation.CreateLeaveAllocationCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Int32",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "HR.LeaveManagement.Api.Controllers.LeaveAllocationController",
+    "Method": "Delete",
+    "RelativePath": "api/LeaveAllocation/Delete/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HR.LeaveManagement.Api.Controllers.LeaveAllocationController",
+    "Method": "GetAll",
+    "RelativePath": "api/LeaveAllocation/GetAll",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[HR.LeaveManagement.Application.Features.LeaveAllocation.Queries.GetLeaveAllocations.LeaveAllocationDto, HR.LeaveManagement.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "HR.LeaveManagement.Api.Controllers.LeaveAllocationController",
+    "Method": "GetById",
+    "RelativePath": "api/LeaveAllocation/GetById/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "HR.LeaveManagement.Application.Features.LeaveAllocation.Queries.GetLeaveAllocationDetails.LeaveAllocationDetailsDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "HR.LeaveManagement.Api.Controllers.LeaveAllocationController",
+    "Method": "Update",
+    "RelativePath": "api/LeaveAllocation/Update",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "leaveAllocation",
+        "Type": "HR.LeaveManagement.Application.Features.LeaveAllocation.Commands.UpdateLeaveAllocation.UpdateLeaveAllocationCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HR.LeaveManagement.Api.Controllers.LeaveTypeController",
+    "Method": "Create",
+    "RelativePath": "api/LeaveType/Create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "leaveType",
+        "Type": "HR.LeaveManagement.Application.Features.LeaveType.Commands.CreateLeaveType.CreateLeaveTypeCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HR.LeaveManagement.Api.Controllers.LeaveTypeController",
+    "Method": "Delete",
+    "RelativePath": "api/LeaveType/Delete/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HR.LeaveManagement.Api.Controllers.LeaveTypeController",
+    "Method": "GetAll",
+    "RelativePath": "api/LeaveType/GetAll",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[HR.LeaveManagement.Application.Features.LeaveType.Queries.GetAllLeaveTypes.LeaveTypeDto, HR.LeaveManagement.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "HR.LeaveManagement.Api.Controllers.LeaveTypeController",
+    "Method": "GetById",
+    "RelativePath": "api/LeaveType/GetById/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "HR.LeaveManagement.Application.Features.LeaveType.Queries.GetLeaveTypeDetails.LeaveTypeDetailDto",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "HR.LeaveManagement.Api.Controllers.LeaveTypeController",
+    "Method": "Update",
+    "RelativePath": "api/LeaveType/Update",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "leaveType",
+        "Type": "HR.LeaveManagement.Application.Features.LeaveType.Commands.UpdateLeaveType.UpdateLeaveTypeCommand",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
