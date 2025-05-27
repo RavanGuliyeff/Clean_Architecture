@@ -188,6 +188,244 @@
         }
       }
     },
+    "/api/LeaveRequest/GetAll": {
+      "get": {
+        "tags": [
+          "LeaveRequest"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/LeaveRequestDto"
+                  }
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/LeaveRequestDto"
+                  }
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "type": "array",
+                  "items": {
+                    "$ref": "#/components/schemas/LeaveRequestDto"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/LeaveRequest/GetById/{id}": {
+      "get": {
+        "tags": [
+          "LeaveRequest"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "$ref": "#/components/schemas/LeaveRequestDetailsDto"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/LeaveRequestDetailsDto"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "$ref": "#/components/schemas/LeaveRequestDetailsDto"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/LeaveRequest/Create": {
+      "post": {
+        "tags": [
+          "LeaveRequest"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/CreateLeaveRequestCommand"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/CreateLeaveRequestCommand"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/CreateLeaveRequestCommand"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/LeaveRequest/Update": {
+      "put": {
+        "tags": [
+          "LeaveRequest"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/UpdateLeaveRequestCommand"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/UpdateLeaveRequestCommand"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/UpdateLeaveRequestCommand"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/LeaveRequest/Cancel/{id}": {
+      "put": {
+        "tags": [
+          "LeaveRequest"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "type": "integer",
+                "format": "int32"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "type": "integer",
+                "format": "int32"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "type": "integer",
+                "format": "int32"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/LeaveRequest/ChangeApprovedStatus": {
+      "put": {
+        "tags": [
+          "LeaveRequest"
+        ],
+        "requestBody": {
+          "content": {
+            "application/json": {
+              "schema": {
+                "$ref": "#/components/schemas/ChangeLeaveRequestApprovalCommand"
+              }
+            },
+            "text/json": {
+              "schema": {
+                "$ref": "#/components/schemas/ChangeLeaveRequestApprovalCommand"
+              }
+            },
+            "application/*+json": {
+              "schema": {
+                "$ref": "#/components/schemas/ChangeLeaveRequestApprovalCommand"
+              }
+            }
+          }
+        },
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
+    "/api/LeaveRequest/Delete/{id}": {
+      "delete": {
+        "tags": [
+          "LeaveRequest"
+        ],
+        "parameters": [
+          {
+            "name": "id",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "integer",
+              "format": "int32"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK"
+          }
+        }
+      }
+    },
     "/api/LeaveType/GetAll": {
       "get": {
         "tags": [
@@ -354,12 +592,47 @@
   },
   "components": {
     "schemas": {
+      "ChangeLeaveRequestApprovalCommand": {
+        "type": "object",
+        "properties": {
+          "id": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "approved": {
+            "type": "boolean"
+          }
+        },
+        "additionalProperties": false
+      },
       "CreateLeaveAllocationCommand": {
         "type": "object",
         "properties": {
           "leaveTypeId": {
             "type": "integer",
             "format": "int32"
+          }
+        },
+        "additionalProperties": false
+      },
+      "CreateLeaveRequestCommand": {
+        "type": "object",
+        "properties": {
+          "leaveTypeId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "startDate": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "endDate": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "requestComments": {
+            "type": "string",
+            "nullable": true
           }
         },
         "additionalProperties": false
@@ -428,6 +701,79 @@
         },
         "additionalProperties": false
       },
+      "LeaveRequestDetailsDto": {
+        "type": "object",
+        "properties": {
+          "startDate": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "endDate": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "leaveType": {
+            "$ref": "#/components/schemas/LeaveTypeDto"
+          },
+          "leaveTypeId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "dateRequested": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "dateActioned": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "requestComments": {
+            "type": "string",
+            "nullable": true
+          },
+          "approved": {
+            "type": "boolean",
+            "nullable": true
+          },
+          "cancelled": {
+            "type": "boolean"
+          },
+          "requestingEmployeeId": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "LeaveRequestDto": {
+        "type": "object",
+        "properties": {
+          "startDate": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "endDate": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "leaveType": {
+            "$ref": "#/components/schemas/LeaveTypeDto"
+          },
+          "dateRequested": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "approved": {
+            "type": "boolean",
+            "nullable": true
+          },
+          "requestingEmployeeId": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
       "LeaveTypeDetailDto": {
         "type": "object",
         "properties": {
@@ -492,6 +838,35 @@
           "leaveTypeId": {
             "type": "integer",
             "format": "int32"
+          }
+        },
+        "additionalProperties": false
+      },
+      "UpdateLeaveRequestCommand": {
+        "type": "object",
+        "properties": {
+          "leaveTypeId": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "startDate": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "endDate": {
+            "type": "string",
+            "format": "date-time"
+          },
+          "id": {
+            "type": "integer",
+            "format": "int32"
+          },
+          "requestComments": {
+            "type": "string",
+            "nullable": true
+          },
+          "cancelled": {
+            "type": "boolean"
           }
         },
         "additionalProperties": false

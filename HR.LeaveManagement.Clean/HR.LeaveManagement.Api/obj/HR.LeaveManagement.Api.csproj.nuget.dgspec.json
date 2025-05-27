@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_arc\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Api\\HR.LeaveManagement.Api.csproj": {}
+    "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Api\\HR.LeaveManagement.Api.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_arc\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Api\\HR.LeaveManagement.Api.csproj": {
+    "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Api\\HR.LeaveManagement.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_arc\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Api\\HR.LeaveManagement.Api.csproj",
+        "projectUniqueName": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Api\\HR.LeaveManagement.Api.csproj",
         "projectName": "HR.LeaveManagement.Api",
-        "projectPath": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_arc\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Api\\HR.LeaveManagement.Api.csproj",
+        "projectPath": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Api\\HR.LeaveManagement.Api.csproj",
         "packagesPath": "C:\\Users\\Ravan Guliyev\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_arc\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Api\\obj\\",
+        "outputPath": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Api\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,14 +32,14 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_arc\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj": {
-                "projectPath": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_arc\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj"
+              "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj": {
+                "projectPath": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj"
               },
-              "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_arc\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Infrastructure\\HR.LeaveManagement.Infrastructure.csproj": {
-                "projectPath": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_arc\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Infrastructure\\HR.LeaveManagement.Infrastructure.csproj"
+              "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Infrastructure\\HR.LeaveManagement.Infrastructure.csproj": {
+                "projectPath": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Infrastructure\\HR.LeaveManagement.Infrastructure.csproj"
               },
-              "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_arc\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Persistence\\HR.LeaveManagement.Persistence.csproj": {
-                "projectPath": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_arc\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Persistence\\HR.LeaveManagement.Persistence.csproj"
+              "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Persistence\\HR.LeaveManagement.Persistence.csproj": {
+                "projectPath": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Persistence\\HR.LeaveManagement.Persistence.csproj"
               }
             }
           }
@@ -94,14 +94,14 @@
         }
       }
     },
-    "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_arc\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj": {
+    "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_arc\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj",
+        "projectUniqueName": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj",
         "projectName": "HR.LeaveManagement.Application",
-        "projectPath": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_arc\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj",
+        "projectPath": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj",
         "packagesPath": "C:\\Users\\Ravan Guliyev\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_arc\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Application\\obj\\",
+        "outputPath": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Application\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -122,8 +122,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_arc\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Domain\\HR.LeaveManagement.Domain.csproj": {
-                "projectPath": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_arc\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Domain\\HR.LeaveManagement.Domain.csproj"
+              "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Domain\\HR.LeaveManagement.Domain.csproj": {
+                "projectPath": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Domain\\HR.LeaveManagement.Domain.csproj"
               }
             }
           }
@@ -181,14 +181,14 @@
         }
       }
     },
-    "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_arc\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Domain\\HR.LeaveManagement.Domain.csproj": {
+    "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Domain\\HR.LeaveManagement.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_arc\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Domain\\HR.LeaveManagement.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Domain\\HR.LeaveManagement.Domain.csproj",
         "projectName": "HR.LeaveManagement.Domain",
-        "projectPath": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_arc\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Domain\\HR.LeaveManagement.Domain.csproj",
+        "projectPath": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Domain\\HR.LeaveManagement.Domain.csproj",
         "packagesPath": "C:\\Users\\Ravan Guliyev\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_arc\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Domain\\obj\\",
+        "outputPath": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -246,14 +246,14 @@
         }
       }
     },
-    "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_arc\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Infrastructure\\HR.LeaveManagement.Infrastructure.csproj": {
+    "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Infrastructure\\HR.LeaveManagement.Infrastructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_arc\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Infrastructure\\HR.LeaveManagement.Infrastructure.csproj",
+        "projectUniqueName": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Infrastructure\\HR.LeaveManagement.Infrastructure.csproj",
         "projectName": "HR.LeaveManagement.Infrastructure",
-        "projectPath": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_arc\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Infrastructure\\HR.LeaveManagement.Infrastructure.csproj",
+        "projectPath": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Infrastructure\\HR.LeaveManagement.Infrastructure.csproj",
         "packagesPath": "C:\\Users\\Ravan Guliyev\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_arc\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Infrastructure\\obj\\",
+        "outputPath": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Infrastructure\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -274,8 +274,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_arc\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj": {
-                "projectPath": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_arc\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj"
+              "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj": {
+                "projectPath": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj"
               }
             }
           }
@@ -337,14 +337,14 @@
         }
       }
     },
-    "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_arc\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Persistence\\HR.LeaveManagement.Persistence.csproj": {
+    "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Persistence\\HR.LeaveManagement.Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_arc\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Persistence\\HR.LeaveManagement.Persistence.csproj",
+        "projectUniqueName": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Persistence\\HR.LeaveManagement.Persistence.csproj",
         "projectName": "HR.LeaveManagement.Persistence",
-        "projectPath": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_arc\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Persistence\\HR.LeaveManagement.Persistence.csproj",
+        "projectPath": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Persistence\\HR.LeaveManagement.Persistence.csproj",
         "packagesPath": "C:\\Users\\Ravan Guliyev\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_arc\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Persistence\\obj\\",
+        "outputPath": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -365,8 +365,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_arc\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj": {
-                "projectPath": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_arc\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj"
+              "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj": {
+                "projectPath": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj"
               }
             }
           }

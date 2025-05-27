@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_arc\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Domain\\HR.LeaveManagement.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Domain\\HR.LeaveManagement.Domain.csproj",
       "projectName": "HR.LeaveManagement.Domain",
-      "projectPath": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_arc\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Domain\\HR.LeaveManagement.Domain.csproj",
+      "projectPath": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Domain\\HR.LeaveManagement.Domain.csproj",
       "packagesPath": "C:\\Users\\Ravan Guliyev\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_arc\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Domain\\obj\\",
+      "outputPath": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
