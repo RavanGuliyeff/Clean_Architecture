@@ -3,252 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B3DC4B49-807C-49AF-8B65-73168EBE45E0}|HR.LeaveManagement.Api\\HR.LeaveManagement.Api.csproj|c:\\users\\ravan guliyev\\desktop\\development\\education\\clean_architecture\\hr.leavemanagement.clean\\hr.leavemanagement.api\\controllers\\leaverequestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B3DC4B49-807C-49AF-8B65-73168EBE45E0}|HR.LeaveManagement.Api\\HR.LeaveManagement.Api.csproj|solutionrelative:hr.leavemanagement.api\\controllers\\leaverequestcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{36DF8DDA-A722-48BD-8121-1E79BB3C40B1}|HR.LeaveManagement.UnitTests\\HR.LeaveManagement.UnitTests.csproj|c:\\users\\ravan guliyev\\desktop\\development\\education\\clean_architecture\\hr.leavemanagement.clean\\hr.leavemanagement.unittests\\mocks\\mockleavetyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36DF8DDA-A722-48BD-8121-1E79BB3C40B1}|HR.LeaveManagement.UnitTests\\HR.LeaveManagement.UnitTests.csproj|solutionrelative:hr.leavemanagement.unittests\\mocks\\mockleavetyperepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B3DC4B49-807C-49AF-8B65-73168EBE45E0}|HR.LeaveManagement.Api\\HR.LeaveManagement.Api.csproj|c:\\users\\ravan guliyev\\desktop\\development\\education\\clean_architecture\\hr.leavemanagement.clean\\hr.leavemanagement.api\\controllers\\leavetypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B3DC4B49-807C-49AF-8B65-73168EBE45E0}|HR.LeaveManagement.Api\\HR.LeaveManagement.Api.csproj|solutionrelative:hr.leavemanagement.api\\controllers\\leavetypecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{36DF8DDA-A722-48BD-8121-1E79BB3C40B1}|HR.LeaveManagement.UnitTests\\HR.LeaveManagement.UnitTests.csproj|c:\\users\\ravan guliyev\\desktop\\development\\education\\clean_architecture\\hr.leavemanagement.clean\\hr.leavemanagement.unittests\\features\\leavetypes\\commands\\createleavetypecommandhandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36DF8DDA-A722-48BD-8121-1E79BB3C40B1}|HR.LeaveManagement.UnitTests\\HR.LeaveManagement.UnitTests.csproj|solutionrelative:hr.leavemanagement.unittests\\features\\leavetypes\\commands\\createleavetypecommandhandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{37AA1144-2D9E-474F-A28E-9F0C8E1BD14D}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|c:\\users\\ravan guliyev\\desktop\\development\\education\\clean_architecture\\hr.leavemanagement.clean\\hr.leavemanagement.application\\features\\leaverequest\\commands\\changeleaverequestapproval\\changeleaverequestapprovalcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{37AA1144-2D9E-474F-A28E-9F0C8E1BD14D}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|solutionrelative:hr.leavemanagement.application\\features\\leaverequest\\commands\\changeleaverequestapproval\\changeleaverequestapprovalcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{36DF8DDA-A722-48BD-8121-1E79BB3C40B1}|HR.LeaveManagement.UnitTests\\HR.LeaveManagement.UnitTests.csproj|c:\\users\\ravan guliyev\\desktop\\development\\education\\clean_architecture\\hr.leavemanagement.clean\\hr.leavemanagement.unittests\\features\\leavetypes\\queries\\getleavetypesqueryhandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36DF8DDA-A722-48BD-8121-1E79BB3C40B1}|HR.LeaveManagement.UnitTests\\HR.LeaveManagement.UnitTests.csproj|solutionrelative:hr.leavemanagement.unittests\\features\\leavetypes\\queries\\getleavetypesqueryhandlertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{37AA1144-2D9E-474F-A28E-9F0C8E1BD14D}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|c:\\users\\ravan guliyev\\desktop\\development\\education\\clean_architecture\\hr.leavemanagement.clean\\hr.leavemanagement.application\\features\\leaverequest\\commands\\cancelleaverequest\\cancelleaverequestcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{37AA1144-2D9E-474F-A28E-9F0C8E1BD14D}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|solutionrelative:hr.leavemanagement.application\\features\\leaverequest\\commands\\cancelleaverequest\\cancelleaverequestcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{37AA1144-2D9E-474F-A28E-9F0C8E1BD14D}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|c:\\users\\ravan guliyev\\desktop\\development\\education\\clean_architecture\\hr.leavemanagement.clean\\hr.leavemanagement.application\\features\\leaverequest\\commands\\cancelleaverequest\\cancelleaverequestcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{37AA1144-2D9E-474F-A28E-9F0C8E1BD14D}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|solutionrelative:hr.leavemanagement.application\\features\\leaverequest\\commands\\cancelleaverequest\\cancelleaverequestcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{37AA1144-2D9E-474F-A28E-9F0C8E1BD14D}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|c:\\users\\ravan guliyev\\desktop\\development\\education\\clean_architecture\\hr.leavemanagement.clean\\hr.leavemanagement.application\\features\\leaverequest\\commands\\changeleaverequestapproval\\changeleaverequestapprovalcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{37AA1144-2D9E-474F-A28E-9F0C8E1BD14D}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|solutionrelative:hr.leavemanagement.application\\features\\leaverequest\\commands\\changeleaverequestapproval\\changeleaverequestapprovalcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{37AA1144-2D9E-474F-A28E-9F0C8E1BD14D}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|c:\\users\\ravan guliyev\\desktop\\development\\education\\clean_architecture\\hr.leavemanagement.clean\\hr.leavemanagement.application\\features\\leaverequest\\commands\\changeleaverequestapproval\\changeleaverequestapprovalcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{37AA1144-2D9E-474F-A28E-9F0C8E1BD14D}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|solutionrelative:hr.leavemanagement.application\\features\\leaverequest\\commands\\changeleaverequestapproval\\changeleaverequestapprovalcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{37AA1144-2D9E-474F-A28E-9F0C8E1BD14D}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|c:\\users\\ravan guliyev\\desktop\\development\\education\\clean_architecture\\hr.leavemanagement.clean\\hr.leavemanagement.application\\features\\leaverequest\\commands\\updateleaverequest\\updateleaverequestcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{37AA1144-2D9E-474F-A28E-9F0C8E1BD14D}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|solutionrelative:hr.leavemanagement.application\\features\\leaverequest\\commands\\updateleaverequest\\updateleaverequestcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{37AA1144-2D9E-474F-A28E-9F0C8E1BD14D}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|c:\\users\\ravan guliyev\\desktop\\development\\education\\clean_architecture\\hr.leavemanagement.clean\\hr.leavemanagement.application\\features\\leaverequest\\commands\\updateleaverequest\\updateleaverequestcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{37AA1144-2D9E-474F-A28E-9F0C8E1BD14D}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|solutionrelative:hr.leavemanagement.application\\features\\leaverequest\\commands\\updateleaverequest\\updateleaverequestcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{37AA1144-2D9E-474F-A28E-9F0C8E1BD14D}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|c:\\users\\ravan guliyev\\desktop\\development\\education\\clean_architecture\\hr.leavemanagement.clean\\hr.leavemanagement.application\\features\\leaverequest\\commands\\createleaverequest\\createleaverequestcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{37AA1144-2D9E-474F-A28E-9F0C8E1BD14D}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|solutionrelative:hr.leavemanagement.application\\features\\leaverequest\\commands\\createleaverequest\\createleaverequestcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{37AA1144-2D9E-474F-A28E-9F0C8E1BD14D}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|c:\\users\\ravan guliyev\\desktop\\development\\education\\clean_architecture\\hr.leavemanagement.clean\\hr.leavemanagement.application\\features\\leaverequest\\commands\\updateleaverequest\\updateleaverequestcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{37AA1144-2D9E-474F-A28E-9F0C8E1BD14D}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|solutionrelative:hr.leavemanagement.application\\features\\leaverequest\\commands\\updateleaverequest\\updateleaverequestcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{37AA1144-2D9E-474F-A28E-9F0C8E1BD14D}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|c:\\users\\ravan guliyev\\desktop\\development\\education\\clean_architecture\\hr.leavemanagement.clean\\hr.leavemanagement.application\\features\\leaveallocation\\commands\\createleaveallocation\\createleaveallocationcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{37AA1144-2D9E-474F-A28E-9F0C8E1BD14D}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|solutionrelative:hr.leavemanagement.application\\features\\leaveallocation\\commands\\createleaveallocation\\createleaveallocationcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{37AA1144-2D9E-474F-A28E-9F0C8E1BD14D}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|c:\\users\\ravan guliyev\\desktop\\development\\education\\clean_architecture\\hr.leavemanagement.clean\\hr.leavemanagement.application\\features\\leaveallocation\\commands\\createleaveallocation\\createleaveallocationcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{37AA1144-2D9E-474F-A28E-9F0C8E1BD14D}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|solutionrelative:hr.leavemanagement.application\\features\\leaveallocation\\commands\\createleaveallocation\\createleaveallocationcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0AE3C6FB-7BD9-495E-921F-B8409CC029E7}|HR.LeaveManagement.Persistence\\HR.LeaveManagement.Persistence.csproj|c:\\users\\ravan guliyev\\desktop\\development\\education\\clean_architecture\\hr.leavemanagement.clean\\hr.leavemanagement.persistence\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0AE3C6FB-7BD9-495E-921F-B8409CC029E7}|HR.LeaveManagement.Persistence\\HR.LeaveManagement.Persistence.csproj|solutionrelative:hr.leavemanagement.persistence\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{93EE6655-18E7-4AAB-B95A-6D870BC96503}|HR.LeaveManagement.Infrastructure\\HR.LeaveManagement.Infrastructure.csproj|c:\\users\\ravan guliyev\\desktop\\development\\education\\clean_architecture\\hr.leavemanagement.clean\\hr.leavemanagement.infrastructure\\emailservice\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{93EE6655-18E7-4AAB-B95A-6D870BC96503}|HR.LeaveManagement.Infrastructure\\HR.LeaveManagement.Infrastructure.csproj|solutionrelative:hr.leavemanagement.infrastructure\\emailservice\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{37AA1144-2D9E-474F-A28E-9F0C8E1BD14D}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|c:\\users\\ravan guliyev\\desktop\\development\\education\\clean_architecture\\hr.leavemanagement.clean\\hr.leavemanagement.application\\features\\leaverequest\\shared\\baseleaverequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{37AA1144-2D9E-474F-A28E-9F0C8E1BD14D}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|solutionrelative:hr.leavemanagement.application\\features\\leaverequest\\shared\\baseleaverequestvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{37AA1144-2D9E-474F-A28E-9F0C8E1BD14D}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|c:\\users\\ravan guliyev\\desktop\\development\\education\\clean_architecture\\hr.leavemanagement.clean\\hr.leavemanagement.application\\features\\leaverequest\\shared\\baseleaverequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{37AA1144-2D9E-474F-A28E-9F0C8E1BD14D}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|solutionrelative:hr.leavemanagement.application\\features\\leaverequest\\shared\\baseleaverequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{37AA1144-2D9E-474F-A28E-9F0C8E1BD14D}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|c:\\users\\ravan guliyev\\desktop\\development\\education\\clean_architecture\\hr.leavemanagement.clean\\hr.leavemanagement.application\\features\\leaverequest\\queries\\getleaverequestdetails\\getleaverequestdetailsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{37AA1144-2D9E-474F-A28E-9F0C8E1BD14D}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|solutionrelative:hr.leavemanagement.application\\features\\leaverequest\\queries\\getleaverequestdetails\\getleaverequestdetailsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{37AA1144-2D9E-474F-A28E-9F0C8E1BD14D}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|c:\\users\\ravan guliyev\\desktop\\development\\education\\clean_architecture\\hr.leavemanagement.clean\\hr.leavemanagement.application\\features\\leaverequest\\queries\\getleaverequestdetails\\getleaverequestdetailsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{37AA1144-2D9E-474F-A28E-9F0C8E1BD14D}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|solutionrelative:hr.leavemanagement.application\\features\\leaverequest\\queries\\getleaverequestdetails\\getleaverequestdetailsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{37AA1144-2D9E-474F-A28E-9F0C8E1BD14D}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|c:\\users\\ravan guliyev\\desktop\\development\\education\\clean_architecture\\hr.leavemanagement.clean\\hr.leavemanagement.application\\features\\leaverequest\\queries\\getleaverequestdetails\\leaverequestdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{37AA1144-2D9E-474F-A28E-9F0C8E1BD14D}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|solutionrelative:hr.leavemanagement.application\\features\\leaverequest\\queries\\getleaverequestdetails\\leaverequestdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{37AA1144-2D9E-474F-A28E-9F0C8E1BD14D}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|c:\\users\\ravan guliyev\\desktop\\development\\education\\clean_architecture\\hr.leavemanagement.clean\\hr.leavemanagement.application\\features\\leaverequest\\commands\\deleteleaverequest\\deleteleaverequestcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{37AA1144-2D9E-474F-A28E-9F0C8E1BD14D}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|solutionrelative:hr.leavemanagement.application\\features\\leaverequest\\commands\\deleteleaverequest\\deleteleaverequestcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{37AA1144-2D9E-474F-A28E-9F0C8E1BD14D}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|c:\\users\\ravan guliyev\\desktop\\development\\education\\clean_architecture\\hr.leavemanagement.clean\\hr.leavemanagement.application\\features\\leaveallocation\\queries\\getleaveallocations\\leaveallocationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{37AA1144-2D9E-474F-A28E-9F0C8E1BD14D}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|solutionrelative:hr.leavemanagement.application\\features\\leaveallocation\\queries\\getleaveallocations\\leaveallocationdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{37AA1144-2D9E-474F-A28E-9F0C8E1BD14D}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|c:\\users\\ravan guliyev\\desktop\\development\\education\\clean_architecture\\hr.leavemanagement.clean\\hr.leavemanagement.application\\features\\leaveallocation\\commands\\deleteleaveallocation\\deleteleaveallocationcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{37AA1144-2D9E-474F-A28E-9F0C8E1BD14D}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|solutionrelative:hr.leavemanagement.application\\features\\leaveallocation\\commands\\deleteleaveallocation\\deleteleaveallocationcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{37AA1144-2D9E-474F-A28E-9F0C8E1BD14D}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|c:\\users\\ravan guliyev\\desktop\\development\\education\\clean_architecture\\hr.leavemanagement.clean\\hr.leavemanagement.application\\features\\leaverequest\\queries\\getleaverequests\\getleaverequestsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{37AA1144-2D9E-474F-A28E-9F0C8E1BD14D}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|solutionrelative:hr.leavemanagement.application\\features\\leaverequest\\queries\\getleaverequests\\getleaverequestsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F35AF79B-EE2C-4B4C-917C-EE3A9634CBEC}|HR.LeaveManagement.Domain\\HR.LeaveManagement.Domain.csproj|c:\\users\\ravan guliyev\\desktop\\development\\education\\clean_architecture\\hr.leavemanagement.clean\\hr.leavemanagement.domain\\leaverequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F35AF79B-EE2C-4B4C-917C-EE3A9634CBEC}|HR.LeaveManagement.Domain\\HR.LeaveManagement.Domain.csproj|solutionrelative:hr.leavemanagement.domain\\leaverequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{37AA1144-2D9E-474F-A28E-9F0C8E1BD14D}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|c:\\users\\ravan guliyev\\desktop\\development\\education\\clean_architecture\\hr.leavemanagement.clean\\hr.leavemanagement.application\\features\\leaverequest\\queries\\getleaverequests\\leaverequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{37AA1144-2D9E-474F-A28E-9F0C8E1BD14D}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|solutionrelative:hr.leavemanagement.application\\features\\leaverequest\\queries\\getleaverequests\\leaverequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{37AA1144-2D9E-474F-A28E-9F0C8E1BD14D}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|c:\\users\\ravan guliyev\\desktop\\development\\education\\clean_architecture\\hr.leavemanagement.clean\\hr.leavemanagement.application\\features\\leaveallocation\\queries\\getleaveallocations\\getleaveallocationsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{37AA1144-2D9E-474F-A28E-9F0C8E1BD14D}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|solutionrelative:hr.leavemanagement.application\\features\\leaveallocation\\queries\\getleaveallocations\\getleaveallocationsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{37AA1144-2D9E-474F-A28E-9F0C8E1BD14D}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|c:\\users\\ravan guliyev\\desktop\\development\\education\\clean_architecture\\hr.leavemanagement.clean\\hr.leavemanagement.application\\mappingprofiles\\leaveallocationprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{37AA1144-2D9E-474F-A28E-9F0C8E1BD14D}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|solutionrelative:hr.leavemanagement.application\\mappingprofiles\\leaveallocationprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{37AA1144-2D9E-474F-A28E-9F0C8E1BD14D}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|c:\\users\\ravan guliyev\\desktop\\development\\education\\clean_architecture\\hr.leavemanagement.clean\\hr.leavemanagement.application\\features\\leaveallocation\\commands\\updateleaveallocation\\updateleaveallocationcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{37AA1144-2D9E-474F-A28E-9F0C8E1BD14D}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|solutionrelative:hr.leavemanagement.application\\features\\leaveallocation\\commands\\updateleaveallocation\\updateleaveallocationcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{37AA1144-2D9E-474F-A28E-9F0C8E1BD14D}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|c:\\users\\ravan guliyev\\desktop\\development\\education\\clean_architecture\\hr.leavemanagement.clean\\hr.leavemanagement.application\\features\\leavetype\\commands\\createleavetype\\createleavetypecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{37AA1144-2D9E-474F-A28E-9F0C8E1BD14D}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|solutionrelative:hr.leavemanagement.application\\features\\leavetype\\commands\\createleavetype\\createleavetypecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B3DC4B49-807C-49AF-8B65-73168EBE45E0}|HR.LeaveManagement.Api\\HR.LeaveManagement.Api.csproj|c:\\users\\ravan guliyev\\desktop\\development\\education\\clean_architecture\\hr.leavemanagement.clean\\hr.leavemanagement.api\\controllers\\leaveallocationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B3DC4B49-807C-49AF-8B65-73168EBE45E0}|HR.LeaveManagement.Api\\HR.LeaveManagement.Api.csproj|solutionrelative:hr.leavemanagement.api\\controllers\\leaveallocationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{37AA1144-2D9E-474F-A28E-9F0C8E1BD14D}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|c:\\users\\ravan guliyev\\desktop\\development\\education\\clean_architecture\\hr.leavemanagement.clean\\hr.leavemanagement.application\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{37AA1144-2D9E-474F-A28E-9F0C8E1BD14D}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|solutionrelative:hr.leavemanagement.application\\exceptions\\notfoundexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{37AA1144-2D9E-474F-A28E-9F0C8E1BD14D}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|c:\\users\\ravan guliyev\\desktop\\development\\education\\clean_architecture\\hr.leavemanagement.clean\\hr.leavemanagement.application\\features\\leaveallocation\\queries\\getleaveallocationdetails\\getleaveallocationdetailsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{37AA1144-2D9E-474F-A28E-9F0C8E1BD14D}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|solutionrelative:hr.leavemanagement.application\\features\\leaveallocation\\queries\\getleaveallocationdetails\\getleaveallocationdetailsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{37AA1144-2D9E-474F-A28E-9F0C8E1BD14D}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|c:\\users\\ravan guliyev\\desktop\\development\\education\\clean_architecture\\hr.leavemanagement.clean\\hr.leavemanagement.application\\features\\leaveallocation\\commands\\deleteleaveallocation\\deleteleaveallocationcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{37AA1144-2D9E-474F-A28E-9F0C8E1BD14D}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|solutionrelative:hr.leavemanagement.application\\features\\leaveallocation\\commands\\deleteleaveallocation\\deleteleaveallocationcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{37AA1144-2D9E-474F-A28E-9F0C8E1BD14D}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|c:\\users\\ravan guliyev\\desktop\\development\\education\\clean_architecture\\hr.leavemanagement.clean\\hr.leavemanagement.application\\features\\leavetype\\commands\\deleteleavetype\\deleteleavetypecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{37AA1144-2D9E-474F-A28E-9F0C8E1BD14D}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|solutionrelative:hr.leavemanagement.application\\features\\leavetype\\commands\\deleteleavetype\\deleteleavetypecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{37AA1144-2D9E-474F-A28E-9F0C8E1BD14D}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|c:\\users\\ravan guliyev\\desktop\\development\\education\\clean_architecture\\hr.leavemanagement.clean\\hr.leavemanagement.application\\features\\leavetype\\commands\\deleteleavetype\\deleteleavetypecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{37AA1144-2D9E-474F-A28E-9F0C8E1BD14D}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|solutionrelative:hr.leavemanagement.application\\features\\leavetype\\commands\\deleteleavetype\\deleteleavetypecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{37AA1144-2D9E-474F-A28E-9F0C8E1BD14D}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|c:\\users\\ravan guliyev\\desktop\\development\\education\\clean_architecture\\hr.leavemanagement.clean\\hr.leavemanagement.application\\features\\leaveallocation\\commands\\updateleaveallocation\\updateleaveallocationcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{37AA1144-2D9E-474F-A28E-9F0C8E1BD14D}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|solutionrelative:hr.leavemanagement.application\\features\\leaveallocation\\commands\\updateleaveallocation\\updateleaveallocationcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{37AA1144-2D9E-474F-A28E-9F0C8E1BD14D}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|c:\\users\\ravan guliyev\\desktop\\development\\education\\clean_architecture\\hr.leavemanagement.clean\\hr.leavemanagement.application\\features\\leaveallocation\\commands\\updateleaveallocation\\updateleaveallocationcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{37AA1144-2D9E-474F-A28E-9F0C8E1BD14D}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|solutionrelative:hr.leavemanagement.application\\features\\leaveallocation\\commands\\updateleaveallocation\\updateleaveallocationcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{37AA1144-2D9E-474F-A28E-9F0C8E1BD14D}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|c:\\users\\ravan guliyev\\desktop\\development\\education\\clean_architecture\\hr.leavemanagement.clean\\hr.leavemanagement.application\\features\\leaveallocation\\commands\\createleaveallocation\\createleaveallocationcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{37AA1144-2D9E-474F-A28E-9F0C8E1BD14D}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|solutionrelative:hr.leavemanagement.application\\features\\leaveallocation\\commands\\createleaveallocation\\createleaveallocationcommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{37AA1144-2D9E-474F-A28E-9F0C8E1BD14D}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|c:\\users\\ravan guliyev\\desktop\\development\\education\\clean_architecture\\hr.leavemanagement.clean\\hr.leavemanagement.application\\features\\leavetype\\commands\\createleavetype\\createleavetypecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{37AA1144-2D9E-474F-A28E-9F0C8E1BD14D}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|solutionrelative:hr.leavemanagement.application\\features\\leavetype\\commands\\createleavetype\\createleavetypecommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{37AA1144-2D9E-474F-A28E-9F0C8E1BD14D}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|c:\\users\\ravan guliyev\\desktop\\development\\education\\clean_architecture\\hr.leavemanagement.clean\\hr.leavemanagement.application\\features\\leavetype\\queries\\getleavetypedetails\\getleavetypedetailsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{37AA1144-2D9E-474F-A28E-9F0C8E1BD14D}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|solutionrelative:hr.leavemanagement.application\\features\\leavetype\\queries\\getleavetypedetails\\getleavetypedetailsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{37AA1144-2D9E-474F-A28E-9F0C8E1BD14D}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|c:\\users\\ravan guliyev\\desktop\\development\\education\\clean_architecture\\hr.leavemanagement.clean\\hr.leavemanagement.application\\features\\leavetype\\queries\\getleavetypedetails\\getleavetypedetailsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{37AA1144-2D9E-474F-A28E-9F0C8E1BD14D}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|solutionrelative:hr.leavemanagement.application\\features\\leavetype\\queries\\getleavetypedetails\\getleavetypedetailsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{37AA1144-2D9E-474F-A28E-9F0C8E1BD14D}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|c:\\users\\ravan guliyev\\desktop\\development\\education\\clean_architecture\\hr.leavemanagement.clean\\hr.leavemanagement.application\\features\\leaveallocation\\queries\\getleaveallocations\\getleaveallocationsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{37AA1144-2D9E-474F-A28E-9F0C8E1BD14D}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|solutionrelative:hr.leavemanagement.application\\features\\leaveallocation\\queries\\getleaveallocations\\getleaveallocationsqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{37AA1144-2D9E-474F-A28E-9F0C8E1BD14D}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|c:\\users\\ravan guliyev\\desktop\\development\\education\\clean_architecture\\hr.leavemanagement.clean\\hr.leavemanagement.application\\features\\leavetype\\queries\\getallleavetypes\\getleavetypesqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{37AA1144-2D9E-474F-A28E-9F0C8E1BD14D}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|solutionrelative:hr.leavemanagement.application\\features\\leavetype\\queries\\getallleavetypes\\getleavetypesqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{37AA1144-2D9E-474F-A28E-9F0C8E1BD14D}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|c:\\users\\ravan guliyev\\desktop\\development\\education\\clean_architecture\\hr.leavemanagement.clean\\hr.leavemanagement.application\\features\\leavetype\\queries\\getallleavetypes\\getleavetypesquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{37AA1144-2D9E-474F-A28E-9F0C8E1BD14D}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|solutionrelative:hr.leavemanagement.application\\features\\leavetype\\queries\\getallleavetypes\\getleavetypesquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{37AA1144-2D9E-474F-A28E-9F0C8E1BD14D}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|c:\\users\\ravan guliyev\\desktop\\development\\education\\clean_architecture\\hr.leavemanagement.clean\\hr.leavemanagement.application\\features\\leaveallocation\\queries\\getleaveallocationdetails\\getleaveallocationdetailsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{37AA1144-2D9E-474F-A28E-9F0C8E1BD14D}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|solutionrelative:hr.leavemanagement.application\\features\\leaveallocation\\queries\\getleaveallocationdetails\\getleaveallocationdetailsquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{37AA1144-2D9E-474F-A28E-9F0C8E1BD14D}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|c:\\users\\ravan guliyev\\desktop\\development\\education\\clean_architecture\\hr.leavemanagement.clean\\hr.leavemanagement.application\\features\\leaveallocation\\queries\\getleaveallocationdetails\\leaveallocationdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{37AA1144-2D9E-474F-A28E-9F0C8E1BD14D}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|solutionrelative:hr.leavemanagement.application\\features\\leaveallocation\\queries\\getleaveallocationdetails\\leaveallocationdetailsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F35AF79B-EE2C-4B4C-917C-EE3A9634CBEC}|HR.LeaveManagement.Domain\\HR.LeaveManagement.Domain.csproj|c:\\users\\ravan guliyev\\desktop\\development\\education\\clean_architecture\\hr.leavemanagement.clean\\hr.leavemanagement.domain\\leaveallocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F35AF79B-EE2C-4B4C-917C-EE3A9634CBEC}|HR.LeaveManagement.Domain\\HR.LeaveManagement.Domain.csproj|solutionrelative:hr.leavemanagement.domain\\leaveallocation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{36DF8DDA-A722-48BD-8121-1E79BB3C40B1}|HR.LeaveManagement.UnitTests\\HR.LeaveManagement.UnitTests.csproj|c:\\users\\ravan guliyev\\desktop\\development\\education\\clean_architecture\\hr.leavemanagement.clean\\hr.leavemanagement.unittests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{36DF8DDA-A722-48BD-8121-1E79BB3C40B1}|HR.LeaveManagement.UnitTests\\HR.LeaveManagement.UnitTests.csproj|solutionrelative:hr.leavemanagement.unittests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{37AA1144-2D9E-474F-A28E-9F0C8E1BD14D}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|c:\\users\\ravan guliyev\\desktop\\development\\education\\clean_architecture\\hr.leavemanagement.clean\\hr.leavemanagement.application\\features\\leavetype\\commands\\createleavetype\\createleavetypecommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{37AA1144-2D9E-474F-A28E-9F0C8E1BD14D}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|solutionrelative:hr.leavemanagement.application\\features\\leavetype\\commands\\createleavetype\\createleavetypecommandvalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0AE3C6FB-7BD9-495E-921F-B8409CC029E7}|HR.LeaveManagement.Persistence\\HR.LeaveManagement.Persistence.csproj|c:\\users\\ravan guliyev\\desktop\\development\\education\\clean_architecture\\hr.leavemanagement.clean\\hr.leavemanagement.persistence\\databasecontext\\hrdatabasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0AE3C6FB-7BD9-495E-921F-B8409CC029E7}|HR.LeaveManagement.Persistence\\HR.LeaveManagement.Persistence.csproj|solutionrelative:hr.leavemanagement.persistence\\databasecontext\\hrdatabasecontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2691063B-9A27-4BC7-A9B1-046A6AB80E89}|HR.LeaveManagement.IntegrationTests\\HR.LeaveManagement.IntegrationTests.csproj|c:\\users\\ravan guliyev\\desktop\\development\\education\\clean_architecture\\hr.leavemanagement.clean\\hr.leavemanagement.integrationtests\\hrdatabasecontexttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2691063B-9A27-4BC7-A9B1-046A6AB80E89}|HR.LeaveManagement.IntegrationTests\\HR.LeaveManagement.IntegrationTests.csproj|solutionrelative:hr.leavemanagement.integrationtests\\hrdatabasecontexttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0AE3C6FB-7BD9-495E-921F-B8409CC029E7}|HR.LeaveManagement.Persistence\\HR.LeaveManagement.Persistence.csproj|c:\\users\\ravan guliyev\\desktop\\development\\education\\clean_architecture\\hr.leavemanagement.clean\\hr.leavemanagement.persistence\\persistenceserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0AE3C6FB-7BD9-495E-921F-B8409CC029E7}|HR.LeaveManagement.Persistence\\HR.LeaveManagement.Persistence.csproj|solutionrelative:hr.leavemanagement.persistence\\persistenceserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{37AA1144-2D9E-474F-A28E-9F0C8E1BD14D}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|c:\\users\\ravan guliyev\\desktop\\development\\education\\clean_architecture\\hr.leavemanagement.clean\\hr.leavemanagement.application\\mappingprofiles\\leavetypeprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{37AA1144-2D9E-474F-A28E-9F0C8E1BD14D}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|solutionrelative:hr.leavemanagement.application\\mappingprofiles\\leavetypeprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{93EE6655-18E7-4AAB-B95A-6D870BC96503}|HR.LeaveManagement.Infrastructure\\HR.LeaveManagement.Infrastructure.csproj|c:\\users\\ravan guliyev\\desktop\\development\\education\\clean_architecture\\hr.leavemanagement.clean\\hr.leavemanagement.infrastructure\\logging\\loggeradapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{93EE6655-18E7-4AAB-B95A-6D870BC96503}|HR.LeaveManagement.Infrastructure\\HR.LeaveManagement.Infrastructure.csproj|solutionrelative:hr.leavemanagement.infrastructure\\logging\\loggeradapter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{37AA1144-2D9E-474F-A28E-9F0C8E1BD14D}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|c:\\users\\ravan guliyev\\desktop\\development\\education\\clean_architecture\\hr.leavemanagement.clean\\hr.leavemanagement.application\\features\\leavetype\\commands\\updateleavetype\\updateleavetypecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{37AA1144-2D9E-474F-A28E-9F0C8E1BD14D}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|solutionrelative:hr.leavemanagement.application\\features\\leavetype\\commands\\updateleavetype\\updateleavetypecommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B3DC4B49-807C-49AF-8B65-73168EBE45E0}|HR.LeaveManagement.Api\\HR.LeaveManagement.Api.csproj|c:\\users\\ravan guliyev\\desktop\\development\\education\\clean_architecture\\hr.leavemanagement.clean\\hr.leavemanagement.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{B3DC4B49-807C-49AF-8B65-73168EBE45E0}|HR.LeaveManagement.Api\\HR.LeaveManagement.Api.csproj|solutionrelative:hr.leavemanagement.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B3DC4B49-807C-49AF-8B65-73168EBE45E0}|HR.LeaveManagement.Api\\HR.LeaveManagement.Api.csproj|c:\\users\\ravan guliyev\\desktop\\development\\education\\clean_architecture\\hr.leavemanagement.clean\\hr.leavemanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B3DC4B49-807C-49AF-8B65-73168EBE45E0}|HR.LeaveManagement.Api\\HR.LeaveManagement.Api.csproj|solutionrelative:hr.leavemanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0AE3C6FB-7BD9-495E-921F-B8409CC029E7}|HR.LeaveManagement.Persistence\\HR.LeaveManagement.Persistence.csproj|c:\\users\\ravan guliyev\\desktop\\development\\education\\clean_architecture\\hr.leavemanagement.clean\\hr.leavemanagement.persistence\\configurations\\leavetypeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0AE3C6FB-7BD9-495E-921F-B8409CC029E7}|HR.LeaveManagement.Persistence\\HR.LeaveManagement.Persistence.csproj|solutionrelative:hr.leavemanagement.persistence\\configurations\\leavetypeconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{93EE6655-18E7-4AAB-B95A-6D870BC96503}|HR.LeaveManagement.Infrastructure\\HR.LeaveManagement.Infrastructure.csproj|c:\\users\\ravan guliyev\\desktop\\development\\education\\clean_architecture\\hr.leavemanagement.clean\\hr.leavemanagement.infrastructure\\infrastructureserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{93EE6655-18E7-4AAB-B95A-6D870BC96503}|HR.LeaveManagement.Infrastructure\\HR.LeaveManagement.Infrastructure.csproj|solutionrelative:hr.leavemanagement.infrastructure\\infrastructureserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0AE3C6FB-7BD9-495E-921F-B8409CC029E7}|HR.LeaveManagement.Persistence\\HR.LeaveManagement.Persistence.csproj|c:\\users\\ravan guliyev\\desktop\\development\\education\\clean_architecture\\hr.leavemanagement.clean\\hr.leavemanagement.persistence\\hr.leavemanagement.persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{0AE3C6FB-7BD9-495E-921F-B8409CC029E7}|HR.LeaveManagement.Persistence\\HR.LeaveManagement.Persistence.csproj|solutionrelative:hr.leavemanagement.persistence\\hr.leavemanagement.persistence.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{37AA1144-2D9E-474F-A28E-9F0C8E1BD14D}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|c:\\users\\ravan guliyev\\desktop\\development\\education\\clean_architecture\\hr.leavemanagement.clean\\hr.leavemanagement.application\\applicationserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{37AA1144-2D9E-474F-A28E-9F0C8E1BD14D}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|solutionrelative:hr.leavemanagement.application\\applicationserviceregistration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{93EE6655-18E7-4AAB-B95A-6D870BC96503}|HR.LeaveManagement.Infrastructure\\HR.LeaveManagement.Infrastructure.csproj|c:\\users\\ravan guliyev\\desktop\\development\\education\\clean_architecture\\hr.leavemanagement.clean\\hr.leavemanagement.infrastructure\\hr.leavemanagement.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{93EE6655-18E7-4AAB-B95A-6D870BC96503}|HR.LeaveManagement.Infrastructure\\HR.LeaveManagement.Infrastructure.csproj|solutionrelative:hr.leavemanagement.infrastructure\\hr.leavemanagement.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0AE3C6FB-7BD9-495E-921F-B8409CC029E7}|HR.LeaveManagement.Persistence\\HR.LeaveManagement.Persistence.csproj|c:\\users\\ravan guliyev\\desktop\\development\\education\\clean_architecture\\hr.leavemanagement.clean\\hr.leavemanagement.persistence\\migrations\\20250526112330_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0AE3C6FB-7BD9-495E-921F-B8409CC029E7}|HR.LeaveManagement.Persistence\\HR.LeaveManagement.Persistence.csproj|solutionrelative:hr.leavemanagement.persistence\\migrations\\20250526112330_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{37AA1144-2D9E-474F-A28E-9F0C8E1BD14D}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|c:\\users\\ravan guliyev\\desktop\\development\\education\\clean_architecture\\hr.leavemanagement.clean\\hr.leavemanagement.application\\features\\leavetype\\queries\\getallleavetypes\\getleavetypesqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{37AA1144-2D9E-474F-A28E-9F0C8E1BD14D}|HR.LeaveManagement.Application\\HR.LeaveManagement.Application.csproj|solutionrelative:hr.leavemanagement.application\\features\\leavetype\\queries\\getallleavetypes\\getleavetypesqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -258,775 +38,97 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "LeaveRequestController.cs",
-              "DocumentMoniker": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Api\\Controllers\\LeaveRequestController.cs",
-              "RelativeDocumentMoniker": "HR.LeaveManagement.Api\\Controllers\\LeaveRequestController.cs",
-              "ToolTip": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Api\\Controllers\\LeaveRequestController.cs*",
-              "RelativeToolTip": "HR.LeaveManagement.Api\\Controllers\\LeaveRequestController.cs*",
-              "ViewState": "AgIAADAAAAAAAAAAAAAQwD4AAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T16:18:10.693Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "LeaveTypeController.cs",
-              "DocumentMoniker": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Api\\Controllers\\LeaveTypeController.cs",
-              "RelativeDocumentMoniker": "HR.LeaveManagement.Api\\Controllers\\LeaveTypeController.cs",
-              "ToolTip": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Api\\Controllers\\LeaveTypeController.cs",
-              "RelativeToolTip": "HR.LeaveManagement.Api\\Controllers\\LeaveTypeController.cs",
-              "ViewState": "AgIAACgAAAAAAAAAAAAkwCkAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T11:26:55.285Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "CancelLeaveRequestCommand.cs",
-              "DocumentMoniker": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Application\\Features\\LeaveRequest\\Commands\\CancelLeaveRequest\\CancelLeaveRequestCommand.cs",
-              "RelativeDocumentMoniker": "HR.LeaveManagement.Application\\Features\\LeaveRequest\\Commands\\CancelLeaveRequest\\CancelLeaveRequestCommand.cs",
-              "ToolTip": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Application\\Features\\LeaveRequest\\Commands\\CancelLeaveRequest\\CancelLeaveRequestCommand.cs",
-              "RelativeToolTip": "HR.LeaveManagement.Application\\Features\\LeaveRequest\\Commands\\CancelLeaveRequest\\CancelLeaveRequestCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-27T15:48:18.844Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ChangeLeaveRequestApprovalCommand.cs",
-              "DocumentMoniker": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Application\\Features\\LeaveRequest\\Commands\\ChangeLeaveRequestApproval\\ChangeLeaveRequestApprovalCommand.cs",
-              "RelativeDocumentMoniker": "HR.LeaveManagement.Application\\Features\\LeaveRequest\\Commands\\ChangeLeaveRequestApproval\\ChangeLeaveRequestApprovalCommand.cs",
-              "ToolTip": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Application\\Features\\LeaveRequest\\Commands\\ChangeLeaveRequestApproval\\ChangeLeaveRequestApprovalCommand.cs",
-              "RelativeToolTip": "HR.LeaveManagement.Application\\Features\\LeaveRequest\\Commands\\ChangeLeaveRequestApproval\\ChangeLeaveRequestApprovalCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-27T15:56:28.834Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CancelLeaveRequestCommandHandler.cs",
-              "DocumentMoniker": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Application\\Features\\LeaveRequest\\Commands\\CancelLeaveRequest\\CancelLeaveRequestCommandHandler.cs",
-              "RelativeDocumentMoniker": "HR.LeaveManagement.Application\\Features\\LeaveRequest\\Commands\\CancelLeaveRequest\\CancelLeaveRequestCommandHandler.cs",
-              "ToolTip": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Application\\Features\\LeaveRequest\\Commands\\CancelLeaveRequest\\CancelLeaveRequestCommandHandler.cs",
-              "RelativeToolTip": "HR.LeaveManagement.Application\\Features\\LeaveRequest\\Commands\\CancelLeaveRequest\\CancelLeaveRequestCommandHandler.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAACsAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-27T15:54:56.131Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "ChangeLeaveRequestApprovalCommandValidator.cs",
-              "DocumentMoniker": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Application\\Features\\LeaveRequest\\Commands\\ChangeLeaveRequestApproval\\ChangeLeaveRequestApprovalCommandValidator.cs",
-              "RelativeDocumentMoniker": "HR.LeaveManagement.Application\\Features\\LeaveRequest\\Commands\\ChangeLeaveRequestApproval\\ChangeLeaveRequestApprovalCommandValidator.cs",
-              "ToolTip": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Application\\Features\\LeaveRequest\\Commands\\ChangeLeaveRequestApproval\\ChangeLeaveRequestApprovalCommandValidator.cs",
-              "RelativeToolTip": "HR.LeaveManagement.Application\\Features\\LeaveRequest\\Commands\\ChangeLeaveRequestApproval\\ChangeLeaveRequestApprovalCommandValidator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-27T16:06:07.034Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ChangeLeaveRequestApprovalCommandHandler.cs",
-              "DocumentMoniker": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Application\\Features\\LeaveRequest\\Commands\\ChangeLeaveRequestApproval\\ChangeLeaveRequestApprovalCommandHandler.cs",
-              "RelativeDocumentMoniker": "HR.LeaveManagement.Application\\Features\\LeaveRequest\\Commands\\ChangeLeaveRequestApproval\\ChangeLeaveRequestApprovalCommandHandler.cs",
-              "ToolTip": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Application\\Features\\LeaveRequest\\Commands\\ChangeLeaveRequestApproval\\ChangeLeaveRequestApprovalCommandHandler.cs",
-              "RelativeToolTip": "HR.LeaveManagement.Application\\Features\\LeaveRequest\\Commands\\ChangeLeaveRequestApproval\\ChangeLeaveRequestApprovalCommandHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-27T16:06:06.106Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "UpdateLeaveRequestCommandValidator.cs",
-              "DocumentMoniker": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Application\\Features\\LeaveRequest\\Commands\\UpdateLeaveRequest\\UpdateLeaveRequestCommandValidator.cs",
-              "RelativeDocumentMoniker": "HR.LeaveManagement.Application\\Features\\LeaveRequest\\Commands\\UpdateLeaveRequest\\UpdateLeaveRequestCommandValidator.cs",
-              "ToolTip": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Application\\Features\\LeaveRequest\\Commands\\UpdateLeaveRequest\\UpdateLeaveRequestCommandValidator.cs",
-              "RelativeToolTip": "HR.LeaveManagement.Application\\Features\\LeaveRequest\\Commands\\UpdateLeaveRequest\\UpdateLeaveRequestCommandValidator.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-27T15:04:58.433Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "UpdateLeaveRequestCommandHandler.cs",
-              "DocumentMoniker": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Application\\Features\\LeaveRequest\\Commands\\UpdateLeaveRequest\\UpdateLeaveRequestCommandHandler.cs",
-              "RelativeDocumentMoniker": "HR.LeaveManagement.Application\\Features\\LeaveRequest\\Commands\\UpdateLeaveRequest\\UpdateLeaveRequestCommandHandler.cs",
-              "ToolTip": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Application\\Features\\LeaveRequest\\Commands\\UpdateLeaveRequest\\UpdateLeaveRequestCommandHandler.cs",
-              "RelativeToolTip": "HR.LeaveManagement.Application\\Features\\LeaveRequest\\Commands\\UpdateLeaveRequest\\UpdateLeaveRequestCommandHandler.cs",
-              "ViewState": "AgIAADAAAAAAAAAAAAAAADIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-27T15:04:57.527Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "UpdateLeaveRequestCommand.cs",
-              "DocumentMoniker": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Application\\Features\\LeaveRequest\\Commands\\UpdateLeaveRequest\\UpdateLeaveRequestCommand.cs",
-              "RelativeDocumentMoniker": "HR.LeaveManagement.Application\\Features\\LeaveRequest\\Commands\\UpdateLeaveRequest\\UpdateLeaveRequestCommand.cs",
-              "ToolTip": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Application\\Features\\LeaveRequest\\Commands\\UpdateLeaveRequest\\UpdateLeaveRequestCommand.cs",
-              "RelativeToolTip": "HR.LeaveManagement.Application\\Features\\LeaveRequest\\Commands\\UpdateLeaveRequest\\UpdateLeaveRequestCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T16:27:10.55Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "CreateLeaveAllocationCommand.cs",
-              "DocumentMoniker": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Application\\Features\\LeaveAllocation\\Commands\\CreateLeaveAllocation\\CreateLeaveAllocationCommand.cs",
-              "RelativeDocumentMoniker": "HR.LeaveManagement.Application\\Features\\LeaveAllocation\\Commands\\CreateLeaveAllocation\\CreateLeaveAllocationCommand.cs",
-              "ToolTip": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Application\\Features\\LeaveAllocation\\Commands\\CreateLeaveAllocation\\CreateLeaveAllocationCommand.cs",
-              "RelativeToolTip": "HR.LeaveManagement.Application\\Features\\LeaveAllocation\\Commands\\CreateLeaveAllocation\\CreateLeaveAllocationCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T14:33:02.197Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "CreateLeaveRequestCommand.cs",
-              "DocumentMoniker": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Application\\Features\\LeaveRequest\\Commands\\CreateLeaveRequest\\CreateLeaveRequestCommand.cs",
-              "RelativeDocumentMoniker": "HR.LeaveManagement.Application\\Features\\LeaveRequest\\Commands\\CreateLeaveRequest\\CreateLeaveRequestCommand.cs",
-              "ToolTip": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Application\\Features\\LeaveRequest\\Commands\\CreateLeaveRequest\\CreateLeaveRequestCommand.cs",
-              "RelativeToolTip": "HR.LeaveManagement.Application\\Features\\LeaveRequest\\Commands\\CreateLeaveRequest\\CreateLeaveRequestCommand.cs",
-              "ViewState": "AgIAAEYAAAAAAAAAAAAgwCwAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T16:26:03.984Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "GenericRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Persistence\\Repositories\\GenericRepository.cs",
-              "RelativeDocumentMoniker": "HR.LeaveManagement.Persistence\\Repositories\\GenericRepository.cs",
-              "ToolTip": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Persistence\\Repositories\\GenericRepository.cs",
-              "RelativeToolTip": "HR.LeaveManagement.Persistence\\Repositories\\GenericRepository.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-27T14:43:07.747Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "CreateLeaveAllocationCommandHandler.cs",
-              "DocumentMoniker": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Application\\Features\\LeaveAllocation\\Commands\\CreateLeaveAllocation\\CreateLeaveAllocationCommandHandler.cs",
-              "RelativeDocumentMoniker": "HR.LeaveManagement.Application\\Features\\LeaveAllocation\\Commands\\CreateLeaveAllocation\\CreateLeaveAllocationCommandHandler.cs",
-              "ToolTip": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Application\\Features\\LeaveAllocation\\Commands\\CreateLeaveAllocation\\CreateLeaveAllocationCommandHandler.cs",
-              "RelativeToolTip": "HR.LeaveManagement.Application\\Features\\LeaveAllocation\\Commands\\CreateLeaveAllocation\\CreateLeaveAllocationCommandHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA3AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T14:39:18.292Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "EmailSender.cs",
-              "DocumentMoniker": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Infrastructure\\EmailService\\EmailSender.cs",
-              "RelativeDocumentMoniker": "HR.LeaveManagement.Infrastructure\\EmailService\\EmailSender.cs",
-              "ToolTip": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Infrastructure\\EmailService\\EmailSender.cs",
-              "RelativeToolTip": "HR.LeaveManagement.Infrastructure\\EmailService\\EmailSender.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T11:23:05.06Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "BaseLeaveRequestValidator.cs",
-              "DocumentMoniker": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Application\\Features\\LeaveRequest\\Shared\\BaseLeaveRequestValidator.cs",
-              "RelativeDocumentMoniker": "HR.LeaveManagement.Application\\Features\\LeaveRequest\\Shared\\BaseLeaveRequestValidator.cs",
-              "ToolTip": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Application\\Features\\LeaveRequest\\Shared\\BaseLeaveRequestValidator.cs",
-              "RelativeToolTip": "HR.LeaveManagement.Application\\Features\\LeaveRequest\\Shared\\BaseLeaveRequestValidator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-27T13:50:16.314Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "BaseLeaveRequest.cs",
-              "DocumentMoniker": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Application\\Features\\LeaveRequest\\Shared\\BaseLeaveRequest.cs",
-              "RelativeDocumentMoniker": "HR.LeaveManagement.Application\\Features\\LeaveRequest\\Shared\\BaseLeaveRequest.cs",
-              "ToolTip": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Application\\Features\\LeaveRequest\\Shared\\BaseLeaveRequest.cs",
-              "RelativeToolTip": "HR.LeaveManagement.Application\\Features\\LeaveRequest\\Shared\\BaseLeaveRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAABGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-27T13:43:37.837Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "GetLeaveRequestDetailsQuery.cs",
-              "DocumentMoniker": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Application\\Features\\LeaveRequest\\Queries\\GetLeaveRequestDetails\\GetLeaveRequestDetailsQuery.cs",
-              "RelativeDocumentMoniker": "HR.LeaveManagement.Application\\Features\\LeaveRequest\\Queries\\GetLeaveRequestDetails\\GetLeaveRequestDetailsQuery.cs",
-              "ToolTip": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Application\\Features\\LeaveRequest\\Queries\\GetLeaveRequestDetails\\GetLeaveRequestDetailsQuery.cs",
-              "RelativeToolTip": "HR.LeaveManagement.Application\\Features\\LeaveRequest\\Queries\\GetLeaveRequestDetails\\GetLeaveRequestDetailsQuery.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-27T11:43:36.353Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "GetLeaveRequestDetailsQueryHandler.cs",
-              "DocumentMoniker": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Application\\Features\\LeaveRequest\\Queries\\GetLeaveRequestDetails\\GetLeaveRequestDetailsQueryHandler.cs",
-              "RelativeDocumentMoniker": "HR.LeaveManagement.Application\\Features\\LeaveRequest\\Queries\\GetLeaveRequestDetails\\GetLeaveRequestDetailsQueryHandler.cs",
-              "ToolTip": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Application\\Features\\LeaveRequest\\Queries\\GetLeaveRequestDetails\\GetLeaveRequestDetailsQueryHandler.cs",
-              "RelativeToolTip": "HR.LeaveManagement.Application\\Features\\LeaveRequest\\Queries\\GetLeaveRequestDetails\\GetLeaveRequestDetailsQueryHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-27T11:43:34.264Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "LeaveRequestDetailsDto.cs",
-              "DocumentMoniker": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Application\\Features\\LeaveRequest\\Queries\\GetLeaveRequestDetails\\LeaveRequestDetailsDto.cs",
-              "RelativeDocumentMoniker": "HR.LeaveManagement.Application\\Features\\LeaveRequest\\Queries\\GetLeaveRequestDetails\\LeaveRequestDetailsDto.cs",
-              "ToolTip": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Application\\Features\\LeaveRequest\\Queries\\GetLeaveRequestDetails\\LeaveRequestDetailsDto.cs",
-              "RelativeToolTip": "HR.LeaveManagement.Application\\Features\\LeaveRequest\\Queries\\GetLeaveRequestDetails\\LeaveRequestDetailsDto.cs",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAowAYAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T16:24:20.702Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "DeleteLeaveRequestCommand.cs",
-              "DocumentMoniker": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Application\\Features\\LeaveRequest\\Commands\\DeleteLeaveRequest\\DeleteLeaveRequestCommand.cs",
-              "RelativeDocumentMoniker": "HR.LeaveManagement.Application\\Features\\LeaveRequest\\Commands\\DeleteLeaveRequest\\DeleteLeaveRequestCommand.cs",
-              "ToolTip": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Application\\Features\\LeaveRequest\\Commands\\DeleteLeaveRequest\\DeleteLeaveRequestCommand.cs",
-              "RelativeToolTip": "HR.LeaveManagement.Application\\Features\\LeaveRequest\\Commands\\DeleteLeaveRequest\\DeleteLeaveRequestCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T16:26:31.011Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
-              "Title": "DeleteLeaveAllocationCommandHandler.cs",
-              "DocumentMoniker": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Application\\Features\\LeaveAllocation\\Commands\\DeleteLeaveAllocation\\DeleteLeaveAllocationCommandHandler.cs",
-              "RelativeDocumentMoniker": "HR.LeaveManagement.Application\\Features\\LeaveAllocation\\Commands\\DeleteLeaveAllocation\\DeleteLeaveAllocationCommandHandler.cs",
-              "ToolTip": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Application\\Features\\LeaveAllocation\\Commands\\DeleteLeaveAllocation\\DeleteLeaveAllocationCommandHandler.cs",
-              "RelativeToolTip": "HR.LeaveManagement.Application\\Features\\LeaveAllocation\\Commands\\DeleteLeaveAllocation\\DeleteLeaveAllocationCommandHandler.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T15:19:01.035Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "LeaveAllocationDto.cs",
-              "DocumentMoniker": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Application\\Features\\LeaveAllocation\\Queries\\GetLeaveAllocations\\LeaveAllocationDto.cs",
-              "RelativeDocumentMoniker": "HR.LeaveManagement.Application\\Features\\LeaveAllocation\\Queries\\GetLeaveAllocations\\LeaveAllocationDto.cs",
-              "ToolTip": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Application\\Features\\LeaveAllocation\\Queries\\GetLeaveAllocations\\LeaveAllocationDto.cs",
-              "RelativeToolTip": "HR.LeaveManagement.Application\\Features\\LeaveAllocation\\Queries\\GetLeaveAllocations\\LeaveAllocationDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T13:24:12.537Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "GetLeaveRequestsQueryHandler.cs",
-              "DocumentMoniker": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Application\\Features\\LeaveRequest\\Queries\\GetLeaveRequests\\GetLeaveRequestsQueryHandler.cs",
-              "RelativeDocumentMoniker": "HR.LeaveManagement.Application\\Features\\LeaveRequest\\Queries\\GetLeaveRequests\\GetLeaveRequestsQueryHandler.cs",
-              "ToolTip": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Application\\Features\\LeaveRequest\\Queries\\GetLeaveRequests\\GetLeaveRequestsQueryHandler.cs",
-              "RelativeToolTip": "HR.LeaveManagement.Application\\Features\\LeaveRequest\\Queries\\GetLeaveRequests\\GetLeaveRequestsQueryHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-27T11:33:10.962Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 25,
-              "Title": "LeaveRequestDto.cs",
-              "DocumentMoniker": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Application\\Features\\LeaveRequest\\Queries\\GetLeaveRequests\\LeaveRequestDto.cs",
-              "RelativeDocumentMoniker": "HR.LeaveManagement.Application\\Features\\LeaveRequest\\Queries\\GetLeaveRequests\\LeaveRequestDto.cs",
-              "ToolTip": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Application\\Features\\LeaveRequest\\Queries\\GetLeaveRequests\\LeaveRequestDto.cs",
-              "RelativeToolTip": "HR.LeaveManagement.Application\\Features\\LeaveRequest\\Queries\\GetLeaveRequests\\LeaveRequestDto.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAcwA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T16:23:38.44Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "LeaveRequest.cs",
-              "DocumentMoniker": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Domain\\LeaveRequest.cs",
-              "RelativeDocumentMoniker": "HR.LeaveManagement.Domain\\LeaveRequest.cs",
-              "ToolTip": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Domain\\LeaveRequest.cs",
-              "RelativeToolTip": "HR.LeaveManagement.Domain\\LeaveRequest.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T16:30:20.916Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "GetLeaveAllocationsQuery.cs",
-              "DocumentMoniker": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Application\\Features\\LeaveAllocation\\Queries\\GetLeaveAllocations\\GetLeaveAllocationsQuery.cs",
-              "RelativeDocumentMoniker": "HR.LeaveManagement.Application\\Features\\LeaveAllocation\\Queries\\GetLeaveAllocations\\GetLeaveAllocationsQuery.cs",
-              "ToolTip": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Application\\Features\\LeaveAllocation\\Queries\\GetLeaveAllocations\\GetLeaveAllocationsQuery.cs",
-              "RelativeToolTip": "HR.LeaveManagement.Application\\Features\\LeaveAllocation\\Queries\\GetLeaveAllocations\\GetLeaveAllocationsQuery.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T13:27:11.563Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
-              "Title": "LeaveAllocationProfile.cs",
-              "DocumentMoniker": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Application\\MappingProfiles\\LeaveAllocationProfile.cs",
-              "RelativeDocumentMoniker": "HR.LeaveManagement.Application\\MappingProfiles\\LeaveAllocationProfile.cs",
-              "ToolTip": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Application\\MappingProfiles\\LeaveAllocationProfile.cs",
-              "RelativeToolTip": "HR.LeaveManagement.Application\\MappingProfiles\\LeaveAllocationProfile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T15:44:48.298Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "NotFoundException.cs",
-              "DocumentMoniker": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Application\\Exceptions\\NotFoundException.cs",
-              "RelativeDocumentMoniker": "HR.LeaveManagement.Application\\Exceptions\\NotFoundException.cs",
-              "ToolTip": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Application\\Exceptions\\NotFoundException.cs",
-              "RelativeToolTip": "HR.LeaveManagement.Application\\Exceptions\\NotFoundException.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T15:40:55.017Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "LeaveAllocationController.cs",
-              "DocumentMoniker": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Api\\Controllers\\LeaveAllocationController.cs",
-              "RelativeDocumentMoniker": "HR.LeaveManagement.Api\\Controllers\\LeaveAllocationController.cs",
-              "ToolTip": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Api\\Controllers\\LeaveAllocationController.cs",
-              "RelativeToolTip": "HR.LeaveManagement.Api\\Controllers\\LeaveAllocationController.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAIAzwDUAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T15:20:10.657Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "CreateLeaveTypeCommandHandler.cs",
-              "DocumentMoniker": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Application\\Features\\LeaveType\\Commands\\CreateLeaveType\\CreateLeaveTypeCommandHandler.cs",
-              "RelativeDocumentMoniker": "HR.LeaveManagement.Application\\Features\\LeaveType\\Commands\\CreateLeaveType\\CreateLeaveTypeCommandHandler.cs",
-              "ToolTip": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Application\\Features\\LeaveType\\Commands\\CreateLeaveType\\CreateLeaveTypeCommandHandler.cs",
-              "RelativeToolTip": "HR.LeaveManagement.Application\\Features\\LeaveType\\Commands\\CreateLeaveType\\CreateLeaveTypeCommandHandler.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAiwCEAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T12:39:33.161Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "UpdateLeaveAllocationCommandHandler.cs",
-              "DocumentMoniker": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Application\\Features\\LeaveAllocation\\Commands\\UpdateLeaveAllocation\\UpdateLeaveAllocationCommandHandler.cs",
-              "RelativeDocumentMoniker": "HR.LeaveManagement.Application\\Features\\LeaveAllocation\\Commands\\UpdateLeaveAllocation\\UpdateLeaveAllocationCommandHandler.cs",
-              "ToolTip": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Application\\Features\\LeaveAllocation\\Commands\\UpdateLeaveAllocation\\UpdateLeaveAllocationCommandHandler.cs",
-              "RelativeToolTip": "HR.LeaveManagement.Application\\Features\\LeaveAllocation\\Commands\\UpdateLeaveAllocation\\UpdateLeaveAllocationCommandHandler.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwB0AAABGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T15:13:27.076Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "DeleteLeaveAllocationCommand.cs",
-              "DocumentMoniker": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Application\\Features\\LeaveAllocation\\Commands\\DeleteLeaveAllocation\\DeleteLeaveAllocationCommand.cs",
-              "RelativeDocumentMoniker": "HR.LeaveManagement.Application\\Features\\LeaveAllocation\\Commands\\DeleteLeaveAllocation\\DeleteLeaveAllocationCommand.cs",
-              "ToolTip": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Application\\Features\\LeaveAllocation\\Commands\\DeleteLeaveAllocation\\DeleteLeaveAllocationCommand.cs",
-              "RelativeToolTip": "HR.LeaveManagement.Application\\Features\\LeaveAllocation\\Commands\\DeleteLeaveAllocation\\DeleteLeaveAllocationCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T15:13:55.31Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "GetLeaveAllocationDetailsQueryHandler.cs",
-              "DocumentMoniker": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Application\\Features\\LeaveAllocation\\Queries\\GetLeaveAllocationDetails\\GetLeaveAllocationDetailsQueryHandler.cs",
-              "RelativeDocumentMoniker": "HR.LeaveManagement.Application\\Features\\LeaveAllocation\\Queries\\GetLeaveAllocationDetails\\GetLeaveAllocationDetailsQueryHandler.cs",
-              "ToolTip": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Application\\Features\\LeaveAllocation\\Queries\\GetLeaveAllocationDetails\\GetLeaveAllocationDetailsQueryHandler.cs",
-              "RelativeToolTip": "HR.LeaveManagement.Application\\Features\\LeaveAllocation\\Queries\\GetLeaveAllocationDetails\\GetLeaveAllocationDetailsQueryHandler.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBUAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T14:25:17.667Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
-              "Title": "DeleteLeaveTypeCommandHandler.cs",
-              "DocumentMoniker": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Application\\Features\\LeaveType\\Commands\\DeleteLeaveType\\DeleteLeaveTypeCommandHandler.cs",
-              "RelativeDocumentMoniker": "HR.LeaveManagement.Application\\Features\\LeaveType\\Commands\\DeleteLeaveType\\DeleteLeaveTypeCommandHandler.cs",
-              "ToolTip": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Application\\Features\\LeaveType\\Commands\\DeleteLeaveType\\DeleteLeaveTypeCommandHandler.cs",
-              "RelativeToolTip": "HR.LeaveManagement.Application\\Features\\LeaveType\\Commands\\DeleteLeaveType\\DeleteLeaveTypeCommandHandler.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T15:16:40.07Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "UpdateLeaveAllocationCommandValidator.cs",
-              "DocumentMoniker": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Application\\Features\\LeaveAllocation\\Commands\\UpdateLeaveAllocation\\UpdateLeaveAllocationCommandValidator.cs",
-              "RelativeDocumentMoniker": "HR.LeaveManagement.Application\\Features\\LeaveAllocation\\Commands\\UpdateLeaveAllocation\\UpdateLeaveAllocationCommandValidator.cs",
-              "ToolTip": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Application\\Features\\LeaveAllocation\\Commands\\UpdateLeaveAllocation\\UpdateLeaveAllocationCommandValidator.cs",
-              "RelativeToolTip": "HR.LeaveManagement.Application\\Features\\LeaveAllocation\\Commands\\UpdateLeaveAllocation\\UpdateLeaveAllocationCommandValidator.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T15:13:29.091Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "DeleteLeaveTypeCommand.cs",
-              "DocumentMoniker": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Application\\Features\\LeaveType\\Commands\\DeleteLeaveType\\DeleteLeaveTypeCommand.cs",
-              "RelativeDocumentMoniker": "HR.LeaveManagement.Application\\Features\\LeaveType\\Commands\\DeleteLeaveType\\DeleteLeaveTypeCommand.cs",
-              "ToolTip": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Application\\Features\\LeaveType\\Commands\\DeleteLeaveType\\DeleteLeaveTypeCommand.cs",
-              "RelativeToolTip": "HR.LeaveManagement.Application\\Features\\LeaveType\\Commands\\DeleteLeaveType\\DeleteLeaveTypeCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T13:06:51.633Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "UpdateLeaveAllocationCommand.cs",
-              "DocumentMoniker": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Application\\Features\\LeaveAllocation\\Commands\\UpdateLeaveAllocation\\UpdateLeaveAllocationCommand.cs",
-              "RelativeDocumentMoniker": "HR.LeaveManagement.Application\\Features\\LeaveAllocation\\Commands\\UpdateLeaveAllocation\\UpdateLeaveAllocationCommand.cs",
-              "ToolTip": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Application\\Features\\LeaveAllocation\\Commands\\UpdateLeaveAllocation\\UpdateLeaveAllocationCommand.cs",
-              "RelativeToolTip": "HR.LeaveManagement.Application\\Features\\LeaveAllocation\\Commands\\UpdateLeaveAllocation\\UpdateLeaveAllocationCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T14:47:37.758Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
-              "Title": "CreateLeaveAllocationCommandValidator.cs",
-              "DocumentMoniker": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Application\\Features\\LeaveAllocation\\Commands\\CreateLeaveAllocation\\CreateLeaveAllocationCommandValidator.cs",
-              "RelativeDocumentMoniker": "HR.LeaveManagement.Application\\Features\\LeaveAllocation\\Commands\\CreateLeaveAllocation\\CreateLeaveAllocationCommandValidator.cs",
-              "ToolTip": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Application\\Features\\LeaveAllocation\\Commands\\CreateLeaveAllocation\\CreateLeaveAllocationCommandValidator.cs",
-              "RelativeToolTip": "HR.LeaveManagement.Application\\Features\\LeaveAllocation\\Commands\\CreateLeaveAllocation\\CreateLeaveAllocationCommandValidator.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBQAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T14:53:13.551Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 40,
-              "Title": "GetLeaveTypeDetailsQueryHandler.cs",
-              "DocumentMoniker": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Application\\Features\\LeaveType\\Queries\\GetLeaveTypeDetails\\GetLeaveTypeDetailsQueryHandler.cs",
-              "RelativeDocumentMoniker": "HR.LeaveManagement.Application\\Features\\LeaveType\\Queries\\GetLeaveTypeDetails\\GetLeaveTypeDetailsQueryHandler.cs",
-              "ToolTip": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Application\\Features\\LeaveType\\Queries\\GetLeaveTypeDetails\\GetLeaveTypeDetailsQueryHandler.cs",
-              "RelativeToolTip": "HR.LeaveManagement.Application\\Features\\LeaveType\\Queries\\GetLeaveTypeDetails\\GetLeaveTypeDetailsQueryHandler.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T11:44:55.447Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
-              "Title": "CreateLeaveTypeCommand.cs",
-              "DocumentMoniker": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Application\\Features\\LeaveType\\Commands\\CreateLeaveType\\CreateLeaveTypeCommand.cs",
-              "RelativeDocumentMoniker": "HR.LeaveManagement.Application\\Features\\LeaveType\\Commands\\CreateLeaveType\\CreateLeaveTypeCommand.cs",
-              "ToolTip": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Application\\Features\\LeaveType\\Commands\\CreateLeaveType\\CreateLeaveTypeCommand.cs",
-              "RelativeToolTip": "HR.LeaveManagement.Application\\Features\\LeaveType\\Commands\\CreateLeaveType\\CreateLeaveTypeCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAQAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T11:42:59.004Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 41,
-              "Title": "GetLeaveTypeDetailsQuery.cs",
-              "DocumentMoniker": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Application\\Features\\LeaveType\\Queries\\GetLeaveTypeDetails\\GetLeaveTypeDetailsQuery.cs",
-              "RelativeDocumentMoniker": "HR.LeaveManagement.Application\\Features\\LeaveType\\Queries\\GetLeaveTypeDetails\\GetLeaveTypeDetailsQuery.cs",
-              "ToolTip": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Application\\Features\\LeaveType\\Queries\\GetLeaveTypeDetails\\GetLeaveTypeDetailsQuery.cs",
-              "RelativeToolTip": "HR.LeaveManagement.Application\\Features\\LeaveType\\Queries\\GetLeaveTypeDetails\\GetLeaveTypeDetailsQuery.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T14:27:44.706Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 42,
-              "Title": "GetLeaveAllocationsQueryHandler.cs",
-              "DocumentMoniker": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Application\\Features\\LeaveAllocation\\Queries\\GetLeaveAllocations\\GetLeaveAllocationsQueryHandler.cs",
-              "RelativeDocumentMoniker": "HR.LeaveManagement.Application\\Features\\LeaveAllocation\\Queries\\GetLeaveAllocations\\GetLeaveAllocationsQueryHandler.cs",
-              "ToolTip": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Application\\Features\\LeaveAllocation\\Queries\\GetLeaveAllocations\\GetLeaveAllocationsQueryHandler.cs",
-              "RelativeToolTip": "HR.LeaveManagement.Application\\Features\\LeaveAllocation\\Queries\\GetLeaveAllocations\\GetLeaveAllocationsQueryHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T13:28:13.31Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 43,
-              "Title": "GetLeaveTypesQueryHandler.cs",
-              "DocumentMoniker": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Application\\Features\\LeaveType\\Queries\\GetAllLeaveTypes\\GetLeaveTypesQueryHandler.cs",
-              "RelativeDocumentMoniker": "HR.LeaveManagement.Application\\Features\\LeaveType\\Queries\\GetAllLeaveTypes\\GetLeaveTypesQueryHandler.cs",
-              "ToolTip": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Application\\Features\\LeaveType\\Queries\\GetAllLeaveTypes\\GetLeaveTypesQueryHandler.cs",
-              "RelativeToolTip": "HR.LeaveManagement.Application\\Features\\LeaveType\\Queries\\GetAllLeaveTypes\\GetLeaveTypesQueryHandler.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAzwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T11:44:49.119Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 44,
-              "Title": "GetLeaveTypesQuery.cs",
-              "DocumentMoniker": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Application\\Features\\LeaveType\\Queries\\GetAllLeaveTypes\\GetLeaveTypesQuery.cs",
-              "RelativeDocumentMoniker": "HR.LeaveManagement.Application\\Features\\LeaveType\\Queries\\GetAllLeaveTypes\\GetLeaveTypesQuery.cs",
-              "ToolTip": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Application\\Features\\LeaveType\\Queries\\GetAllLeaveTypes\\GetLeaveTypesQuery.cs",
-              "RelativeToolTip": "HR.LeaveManagement.Application\\Features\\LeaveType\\Queries\\GetAllLeaveTypes\\GetLeaveTypesQuery.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAgAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T11:35:04.155Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 45,
-              "Title": "GetLeaveAllocationDetailsQuery.cs",
-              "DocumentMoniker": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Application\\Features\\LeaveAllocation\\Queries\\GetLeaveAllocationDetails\\GetLeaveAllocationDetailsQuery.cs",
-              "RelativeDocumentMoniker": "HR.LeaveManagement.Application\\Features\\LeaveAllocation\\Queries\\GetLeaveAllocationDetails\\GetLeaveAllocationDetailsQuery.cs",
-              "ToolTip": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Application\\Features\\LeaveAllocation\\Queries\\GetLeaveAllocationDetails\\GetLeaveAllocationDetailsQuery.cs",
-              "RelativeToolTip": "HR.LeaveManagement.Application\\Features\\LeaveAllocation\\Queries\\GetLeaveAllocationDetails\\GetLeaveAllocationDetailsQuery.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAzAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T14:24:20.288Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 46,
-              "Title": "LeaveAllocationDetailsDto.cs",
-              "DocumentMoniker": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Application\\Features\\LeaveAllocation\\Queries\\GetLeaveAllocationDetails\\LeaveAllocationDetailsDto.cs",
-              "RelativeDocumentMoniker": "HR.LeaveManagement.Application\\Features\\LeaveAllocation\\Queries\\GetLeaveAllocationDetails\\LeaveAllocationDetailsDto.cs",
-              "ToolTip": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Application\\Features\\LeaveAllocation\\Queries\\GetLeaveAllocationDetails\\LeaveAllocationDetailsDto.cs",
-              "RelativeToolTip": "HR.LeaveManagement.Application\\Features\\LeaveAllocation\\Queries\\GetLeaveAllocationDetails\\LeaveAllocationDetailsDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T14:23:34.65Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 47,
-              "Title": "LeaveAllocation.cs",
-              "DocumentMoniker": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Domain\\LeaveAllocation.cs",
-              "RelativeDocumentMoniker": "HR.LeaveManagement.Domain\\LeaveAllocation.cs",
-              "ToolTip": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Domain\\LeaveAllocation.cs",
-              "RelativeToolTip": "HR.LeaveManagement.Domain\\LeaveAllocation.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T13:24:33.058Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 48,
               "Title": "CreateLeaveTypeCommandValidator.cs",
               "DocumentMoniker": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Application\\Features\\LeaveType\\Commands\\CreateLeaveType\\CreateLeaveTypeCommandValidator.cs",
               "RelativeDocumentMoniker": "HR.LeaveManagement.Application\\Features\\LeaveType\\Commands\\CreateLeaveType\\CreateLeaveTypeCommandValidator.cs",
               "ToolTip": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Application\\Features\\LeaveType\\Commands\\CreateLeaveType\\CreateLeaveTypeCommandValidator.cs",
               "RelativeToolTip": "HR.LeaveManagement.Application\\Features\\LeaveType\\Commands\\CreateLeaveType\\CreateLeaveTypeCommandValidator.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAiwA8AAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAYwBwAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T12:48:58.173Z"
+              "WhenOpened": "2025-05-29T14:56:27.452Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
-              "Title": "HrDatabaseContext.cs",
-              "DocumentMoniker": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Persistence\\DatabaseContext\\HrDatabaseContext.cs",
-              "RelativeDocumentMoniker": "HR.LeaveManagement.Persistence\\DatabaseContext\\HrDatabaseContext.cs",
-              "ToolTip": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Persistence\\DatabaseContext\\HrDatabaseContext.cs",
-              "RelativeToolTip": "HR.LeaveManagement.Persistence\\DatabaseContext\\HrDatabaseContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAEAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "CreateLeaveTypeCommandHandlerTests.cs",
+              "DocumentMoniker": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.UnitTests\\Features\\LeaveTypes\\Commands\\CreateLeaveTypeCommandHandlerTests.cs",
+              "RelativeDocumentMoniker": "HR.LeaveManagement.UnitTests\\Features\\LeaveTypes\\Commands\\CreateLeaveTypeCommandHandlerTests.cs",
+              "ToolTip": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.UnitTests\\Features\\LeaveTypes\\Commands\\CreateLeaveTypeCommandHandlerTests.cs",
+              "RelativeToolTip": "HR.LeaveManagement.UnitTests\\Features\\LeaveTypes\\Commands\\CreateLeaveTypeCommandHandlerTests.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABYAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T11:01:15.1Z"
+              "WhenOpened": "2025-05-29T14:53:46.476Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
-              "Title": "PersistenceServiceRegistration.cs",
-              "DocumentMoniker": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Persistence\\PersistenceServiceRegistration.cs",
-              "RelativeDocumentMoniker": "HR.LeaveManagement.Persistence\\PersistenceServiceRegistration.cs",
-              "ToolTip": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Persistence\\PersistenceServiceRegistration.cs",
-              "RelativeToolTip": "HR.LeaveManagement.Persistence\\PersistenceServiceRegistration.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "GetLeaveTypesQueryHandlerTests.cs",
+              "DocumentMoniker": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.UnitTests\\Features\\LeaveTypes\\Queries\\GetLeaveTypesQueryHandlerTests.cs",
+              "RelativeDocumentMoniker": "HR.LeaveManagement.UnitTests\\Features\\LeaveTypes\\Queries\\GetLeaveTypesQueryHandlerTests.cs",
+              "ToolTip": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.UnitTests\\Features\\LeaveTypes\\Queries\\GetLeaveTypesQueryHandlerTests.cs",
+              "RelativeToolTip": "HR.LeaveManagement.UnitTests\\Features\\LeaveTypes\\Queries\\GetLeaveTypesQueryHandlerTests.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwCAAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T11:01:31.903Z"
+              "WhenOpened": "2025-05-29T13:05:00.205Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
-              "Title": "LeaveTypeProfile.cs",
-              "DocumentMoniker": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Application\\MappingProfiles\\LeaveTypeProfile.cs",
-              "RelativeDocumentMoniker": "HR.LeaveManagement.Application\\MappingProfiles\\LeaveTypeProfile.cs",
-              "ToolTip": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Application\\MappingProfiles\\LeaveTypeProfile.cs",
-              "RelativeToolTip": "HR.LeaveManagement.Application\\MappingProfiles\\LeaveTypeProfile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAEAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "MockLeaveTypeRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.UnitTests\\Mocks\\MockLeaveTypeRepository.cs",
+              "RelativeDocumentMoniker": "HR.LeaveManagement.UnitTests\\Mocks\\MockLeaveTypeRepository.cs",
+              "ToolTip": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.UnitTests\\Mocks\\MockLeaveTypeRepository.cs",
+              "RelativeToolTip": "HR.LeaveManagement.UnitTests\\Mocks\\MockLeaveTypeRepository.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwC8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T12:47:03.849Z"
+              "WhenOpened": "2025-05-29T12:35:30.388Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 61,
-              "Title": "20250526112330_InitialMigration.cs",
-              "DocumentMoniker": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Persistence\\Migrations\\20250526112330_InitialMigration.cs",
-              "RelativeDocumentMoniker": "HR.LeaveManagement.Persistence\\Migrations\\20250526112330_InitialMigration.cs",
-              "ToolTip": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Persistence\\Migrations\\20250526112330_InitialMigration.cs",
-              "RelativeToolTip": "HR.LeaveManagement.Persistence\\Migrations\\20250526112330_InitialMigration.cs",
-              "ViewState": "AgIAAEwAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T11:23:30.572Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 52,
-              "Title": "LoggerAdapter.cs",
-              "DocumentMoniker": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Infrastructure\\Logging\\LoggerAdapter.cs",
-              "RelativeDocumentMoniker": "HR.LeaveManagement.Infrastructure\\Logging\\LoggerAdapter.cs",
-              "ToolTip": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Infrastructure\\Logging\\LoggerAdapter.cs",
-              "RelativeToolTip": "HR.LeaveManagement.Infrastructure\\Logging\\LoggerAdapter.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T11:23:09.577Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 53,
-              "Title": "UpdateLeaveTypeCommandHandler.cs",
-              "DocumentMoniker": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Application\\Features\\LeaveType\\Commands\\UpdateLeaveType\\UpdateLeaveTypeCommandHandler.cs",
-              "RelativeDocumentMoniker": "HR.LeaveManagement.Application\\Features\\LeaveType\\Commands\\UpdateLeaveType\\UpdateLeaveTypeCommandHandler.cs",
-              "ToolTip": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Application\\Features\\LeaveType\\Commands\\UpdateLeaveType\\UpdateLeaveTypeCommandHandler.cs",
-              "RelativeToolTip": "HR.LeaveManagement.Application\\Features\\LeaveType\\Commands\\UpdateLeaveType\\UpdateLeaveTypeCommandHandler.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAApwBcAAABQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T11:22:54.091Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 56,
-              "Title": "LeaveTypeConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Persistence\\Configurations\\LeaveTypeConfiguration.cs",
-              "RelativeDocumentMoniker": "HR.LeaveManagement.Persistence\\Configurations\\LeaveTypeConfiguration.cs",
-              "ToolTip": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Persistence\\Configurations\\LeaveTypeConfiguration.cs",
-              "RelativeToolTip": "HR.LeaveManagement.Persistence\\Configurations\\LeaveTypeConfiguration.cs",
+              "DocumentIndex": 3,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.UnitTests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "HR.LeaveManagement.UnitTests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.UnitTests\\UnitTest1.cs",
+              "RelativeToolTip": "HR.LeaveManagement.UnitTests\\UnitTest1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T11:01:29.218Z"
+              "WhenOpened": "2025-05-29T12:15:22.291Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 54,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Api\\appsettings.json",
-              "RelativeDocumentMoniker": "HR.LeaveManagement.Api\\appsettings.json",
-              "ToolTip": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Api\\appsettings.json",
-              "RelativeToolTip": "HR.LeaveManagement.Api\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-26T10:59:33.971Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 58,
-              "Title": "HR.LeaveManagement.Persistence.csproj",
-              "DocumentMoniker": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Persistence\\HR.LeaveManagement.Persistence.csproj",
-              "RelativeDocumentMoniker": "HR.LeaveManagement.Persistence\\HR.LeaveManagement.Persistence.csproj",
-              "ToolTip": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Persistence\\HR.LeaveManagement.Persistence.csproj",
-              "RelativeToolTip": "HR.LeaveManagement.Persistence\\HR.LeaveManagement.Persistence.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-26T11:01:07.119Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 55,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Api\\Program.cs",
-              "RelativeDocumentMoniker": "HR.LeaveManagement.Api\\Program.cs",
-              "ToolTip": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Api\\Program.cs",
-              "RelativeToolTip": "HR.LeaveManagement.Api\\Program.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABYAAAADAAAAAAAAAA==",
+              "DocumentIndex": 5,
+              "Title": "HrDatabaseContextTests.cs",
+              "DocumentMoniker": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.IntegrationTests\\HrDatabaseContextTests.cs",
+              "RelativeDocumentMoniker": "HR.LeaveManagement.IntegrationTests\\HrDatabaseContextTests.cs",
+              "ToolTip": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.IntegrationTests\\HrDatabaseContextTests.cs",
+              "RelativeToolTip": "HR.LeaveManagement.IntegrationTests\\HrDatabaseContextTests.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAYwDIAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T10:44:53.331Z"
+              "WhenOpened": "2025-05-29T14:17:48.133Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 59,
-              "Title": "ApplicationServiceRegistration.cs",
-              "DocumentMoniker": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Application\\ApplicationServiceRegistration.cs",
-              "RelativeDocumentMoniker": "HR.LeaveManagement.Application\\ApplicationServiceRegistration.cs",
-              "ToolTip": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Application\\ApplicationServiceRegistration.cs",
-              "RelativeToolTip": "HR.LeaveManagement.Application\\ApplicationServiceRegistration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAlAAAAAAAAAA==",
+              "DocumentIndex": 6,
+              "Title": "GetLeaveTypesQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Application\\Features\\LeaveType\\Queries\\GetAllLeaveTypes\\GetLeaveTypesQueryHandler.cs",
+              "RelativeDocumentMoniker": "HR.LeaveManagement.Application\\Features\\LeaveType\\Queries\\GetAllLeaveTypes\\GetLeaveTypesQueryHandler.cs",
+              "ToolTip": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Application\\Features\\LeaveType\\Queries\\GetAllLeaveTypes\\GetLeaveTypesQueryHandler.cs",
+              "RelativeToolTip": "HR.LeaveManagement.Application\\Features\\LeaveType\\Queries\\GetAllLeaveTypes\\GetLeaveTypesQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T10:53:44.649Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 57,
-              "Title": "InfrastructureServiceRegistration.cs",
-              "DocumentMoniker": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Infrastructure\\InfrastructureServiceRegistration.cs",
-              "RelativeDocumentMoniker": "HR.LeaveManagement.Infrastructure\\InfrastructureServiceRegistration.cs",
-              "ToolTip": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Infrastructure\\InfrastructureServiceRegistration.cs",
-              "RelativeToolTip": "HR.LeaveManagement.Infrastructure\\InfrastructureServiceRegistration.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAABEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T10:51:29.53Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 60,
-              "Title": "HR.LeaveManagement.Infrastructure.csproj",
-              "DocumentMoniker": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Infrastructure\\HR.LeaveManagement.Infrastructure.csproj",
-              "RelativeDocumentMoniker": "HR.LeaveManagement.Infrastructure\\HR.LeaveManagement.Infrastructure.csproj",
-              "ToolTip": "C:\\Users\\Ravan Guliyev\\Desktop\\Development\\Education\\Clean_Architecture\\HR.LeaveManagement.Clean\\HR.LeaveManagement.Infrastructure\\HR.LeaveManagement.Infrastructure.csproj",
-              "RelativeToolTip": "HR.LeaveManagement.Infrastructure\\HR.LeaveManagement.Infrastructure.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-05-26T10:51:27.454Z"
+              "WhenOpened": "2025-05-29T13:04:47.459Z"
             }
           ]
         }
